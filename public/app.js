@@ -68,7 +68,7 @@ function buildAd2(coordinates){
     content.append(inner)
 }
 
-console.log(buildAd2(getCoords()))
+//console.log(buildAd2(getCoords()))
 
 
 // event listeners                                                          
